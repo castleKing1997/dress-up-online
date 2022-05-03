@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "dress-up-online",
+    "slug": "dress-up-online",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "dress-up-online"
+}
